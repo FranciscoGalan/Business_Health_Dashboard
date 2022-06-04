@@ -22,12 +22,12 @@ The data for each section of the dashboard is fed trough a Jupyter notebook:
 
 
 
-Each section has its own dedicated notebook:
+Each section of the dashboard has its own dedicated notebook:
 
-* Affiliation: ![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Affiliation_rate.ipynb)
-* Customer Success: ![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Customer_Success.ipynb)
-* Conversion: ![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Conversion_rate.ipynb)
-* Virality: ![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Viralidad.ipynb)
+* Affiliation: [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Affiliation_rate.ipynb)
+* Customer Success: [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Customer_Success.ipynb)
+* Conversion: [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Conversion_rate.ipynb)
+* Virality: [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Viralidad.ipynb)
 
 To keep the dashboard clean and user-friendly, all the sheets with the raw data and the calculations are hidden from the user.
 
