@@ -14,7 +14,7 @@ An ETL dashboard made in Google Sheets that tracks affiliation, conversion, tick
 
 ## How it works
 
-The data for each section of the dashboard is fed trough a Jupyter notebook in this way:
+The data for each section of the dashboard is fed trough a Jupyter notebook:
 
 
 
@@ -22,19 +22,34 @@ The data for each section of the dashboard is fed trough a Jupyter notebook in t
 
 
 
+Each section has its own dedicated notebook:
+
+* Affiliation: ![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Affiliation_rate.ipynb)
+* Customer Success: ![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Customer_Success.ipynb)
+* Conversion: ![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Conversion_rate.ipynb)
+* Virality: ![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Viralidad.ipynb)
+
 To keep the dashboard clean and user-friendly, all the sheets with the raw data and the calculations are hidden from the user.
 
 ## Sections
 
-A main section allows users to navigate to each section:
+The landing page allows users to navigate to other sections:
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/Business_Health_Dashboard/main/Media/main%20dashboard.PNG)
 
+
+
 ![](https://raw.githubusercontent.com/FranciscoGalan/Business_Health_Dashboard/main/Media/Affiliation.PNG)
+
+------
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/Business_Health_Dashboard/main/Media/Customer%20Success.PNG)
 
+------
+
 ![](https://raw.githubusercontent.com/FranciscoGalan/Business_Health_Dashboard/main/Media/Conversion.PNG)
+
+------
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/Business_Health_Dashboard/main/Media/Virality.PNG)
 
