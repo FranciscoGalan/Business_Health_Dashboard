@@ -22,6 +22,8 @@ The data for each section of the dashboard is fed trough a Jupyter notebook:
 
 
 
+
+
 Each section of the dashboard has its own dedicated notebook:
 
 * Affiliation: [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/FranciscoGalan/Business_Health_Dashboard/blob/main/Affiliation_rate.ipynb)
