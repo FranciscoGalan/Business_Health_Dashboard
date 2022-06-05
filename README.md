@@ -1,6 +1,6 @@
 # Business Health Dashboard
 
-An ETL dashboard made in Google Sheets that tracks affiliation, conversion, ticket resolution, and virality metrics by cohort.
+An automated dashboard that tracks affiliation, conversion, ticket resolution, and virality metrics by cohort.
 
 ![Business Health Dashboard](https://raw.githubusercontent.com/FranciscoGalan/Business_Health_Dashboard/main/Media/Business%20Health%20Dashboard.png)
 
